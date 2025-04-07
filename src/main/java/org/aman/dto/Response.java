@@ -1,2 +1,4 @@
-package org.aman.dto;public class Response {
+package org.aman.dto;
+
+public class Response {
 }

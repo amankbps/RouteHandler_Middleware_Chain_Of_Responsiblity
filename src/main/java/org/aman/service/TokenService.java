@@ -1,2 +1,7 @@
-package org.aman.service;public interface TokenService {
+package org.aman.service;
+
+import org.aman.dto.Request;
+
+public interface TokenService {
+    boolean validateToken(Request request);
 }

@@ -1,2 +1,4 @@
-package org.aman.model;public class Todo {
+package org.aman.model;
+
+public class Todo {
 }
